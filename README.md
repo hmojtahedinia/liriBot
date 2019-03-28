@@ -4,7 +4,7 @@
 
 
 
-
+You can find the results of below searches in terminal.
 
 Concert this: (Enrique Iglesias)
 
