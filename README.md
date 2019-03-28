@@ -1,5 +1,10 @@
 # liriBot
 
+*** Please open the "readme.docs" file to see photos of the terminal after running all part of the program. *** 
+
+
+
+
 
 Concert this: (Enrique Iglesias)
 
