@@ -101,19 +101,19 @@ const doWhatItSays = () => {
         //console.log(data0);
         if (dataArr[0] === "concert-this") {
             //console.log(dataArr[1]);
-            let newValue = dataArr[1].slice(1, dataArr.length);
+            let newValue = dataArr[1].slice(1, dataArr[1].length);
             //console.log(newValue);
             query0 = newValue;
             concertThis();
         } else if (dataArr[0] === "spotify-this-song") {
             //console.log(dataArr[1]);
-            let newValue = dataArr[1].slice(1, dataArr.length);
+            let newValue = dataArr[1].slice(1, dataArr[1].length);
             //console.log(newValue);
             query0 = newValue;
             spotifyThisSong();
         } else if (dataArr[0] === "movie-this") {
             //console.log(dataArr[1]);
-            let newValue = dataArr[1].slice(1, dataArr.length);
+            let newValue = dataArr[1].slice(1, dataArr[1].length);
             //console.log(newValue);
             thirdValue = newValue;
             movieThis();
